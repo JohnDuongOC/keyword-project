@@ -53,14 +53,14 @@ Here is a quick summary for the metrics below(rounded by 2 decimals) for the 1st
 | **RPC average**   | $0.32      |
 
 Below I have chart showing the top 10 keywords based on the column 'Profit'. 
-![](images/top_10_profitable_keywords_p1.png)
+![](images/p1_top_10_profitable_keywords.png)
 
 I am a seeing an overall net profit with the average RPC higher than the average CPC indicates that clicks are, on average, profitable. Our RR standing at 89% shows great effectiveness in redirecting users towards our landing pages.   
 
 2. Looking at the data from Period 1 in aggregate and at the keyword level, what changes, if any, would you suggest the SEM account manager make?
 
 What stood out to me when reviewing the top 10 unprofitable keywords, as shown in the graph below, is the keyword '11517280'.
-![](images/top_10_unprofitable_keywords_p1.png)
+![](images/p1_top_10_unprofitable_keywords.png)
 
 This keyword was an outlier, costing $609.99, which far exceeded the others. The average rank for this keyword is 1, indicating that it is both highly competitive and costly. The CTR is 3%, which is 1% better than our overall average, while the redirect rate stands at 45%, meaning that almost half of the clicks result in a redirect. There is significant room for improvement with this keyword, and we should prioritize being more selective about the audience viewing this ad. This approach will not only significantly reduce costs but also allow us to target a more relevant audience effectively. Given that this keyword holds on average a rank 1 position, I think it is still a worthwhile venture to fight for this prime real estate.
 
@@ -91,7 +91,7 @@ Below is the top 10 profitable keywords for period 2.
 
 I merged the two periods into a single table based on 'Keyword_ID' to directly analyze which keywords were retained and updated. The Venn Diagram below illustrates the relationship between the two datasets. Our merged dataset contained 9,999 rows (excluding the header), confirming that we maintained the exact same keywords from the previous period. 
 
-![](images/venn_Diagram_keywordID.PNG)
+![](images/venn_diagram_keywordID.PNG)
 
 I filtered the merged dataset for keywords that showed a positive profit, resulting in a total of 1,881 profitable keywords.
 
@@ -115,11 +115,14 @@ I also believe that that the current set of keywords still holds potential for f
 
 The outlier I identified earlier exhibited a substantial reduction in cost, as shown in the visual below:
 
-![](images/outlier_keyword.png)
+![](images/outlier_keywords.png)
 
 The account manager successfully decreased the cost by $490.25, while also increasing the Redirect Rate (RR) from 45% to 87%. Despite a reduction in both impressions and clicks, the higher RR indicates that users are progressing further along the conversion funnel towards the landing page. This suggests that the recent adjustments are making the ad content more aligned with user intent. I recommend that the account manager continue fine-tuning this keyword to further enhance alignment with user expectations and engagement quality.
 
 Additionally, I suggest a deeper investigation into the keywords: 11539661, 11560760, 759872315, 181797761, and 17740825.
+
+![](images/poor_performing_keywords.png)
+
 These keywords have shown a negative RR difference from exceeding -1 from the previous period, along with a signigicant drop in profitability. Their average rank has increased, but their seems to be a problem post-click for the user, potentially impeding the users from reaching the landing page. This might be because of a faulty landing page link or a slow loading time. 
 
 
