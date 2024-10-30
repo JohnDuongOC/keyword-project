@@ -53,6 +53,7 @@ Here is a quick summary for the metrics below(rounded by 2 decimals) for the 1st
 | **RPC average**   | $0.32      |
 
 Below I have chart showing the top 10 keywords based on the column 'Profit'. 
+
 ![](images/p1_top_10_profitable_keywords.png)
 
 I am a seeing an overall net profit with the average RPC higher than the average CPC indicates that clicks are, on average, profitable. Our RR standing at 89% shows great effectiveness in redirecting users towards our landing pages.   
@@ -60,6 +61,7 @@ I am a seeing an overall net profit with the average RPC higher than the average
 2. Looking at the data from Period 1 in aggregate and at the keyword level, what changes, if any, would you suggest the SEM account manager make?
 
 What stood out to me when reviewing the top 10 unprofitable keywords, as shown in the graph below, is the keyword '11517280'.
+
 ![](images/p1_top_10_unprofitable_keywords.png)
 
 This keyword was an outlier, costing $609.99, which far exceeded the others. The average rank for this keyword is 1, indicating that it is both highly competitive and costly. The CTR is 3%, which is 1% better than our overall average, while the redirect rate stands at 45%, meaning that almost half of the clicks result in a redirect. There is significant room for improvement with this keyword, and we should prioritize being more selective about the audience viewing this ad. This approach will not only significantly reduce costs but also allow us to target a more relevant audience effectively. Given that this keyword holds on average a rank 1 position, I think it is still a worthwhile venture to fight for this prime real estate.
