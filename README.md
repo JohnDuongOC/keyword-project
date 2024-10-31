@@ -56,7 +56,7 @@ Below I have chart showing the top 10 keywords based on the column 'Profit'.
 
 ![](images/p1_top_10_profitable_keywords.png)
 
-I am a seeing an overall net profit with the average RPC higher than the average CPC indicates that clicks are, on average, profitable. Our RR standing at 89% shows great effectiveness in redirecting users towards our landing pages.   
+I am seeing an overall net profit with the average RPC higher than the average CPC indicates that clicks are, on average, profitable. Our RR standing at 89% shows great effectiveness in redirecting users towards our landing pages.   
 
 2. Looking at the data from Period 1 in aggregate and at the keyword level, what changes, if any, would you suggest the SEM account manager make?
 
