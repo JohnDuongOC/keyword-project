@@ -93,7 +93,7 @@ Below is the top 10 profitable keywords for period 2.
 
 I merged the two periods into a single table based on 'Keyword_ID' to directly analyze which keywords were retained and updated. The Venn Diagram below illustrates the relationship between the two datasets. Our merged dataset contained 9,999 rows (excluding the header), confirming that we maintained the exact same keywords from the previous period. 
 
-![](images/venn_diagram_keywordID.PNG)
+![](images/venn_Diagram_keywordID.PNG)
 
 I filtered the merged dataset for keywords that showed a positive profit, resulting in a total of 1,881 profitable keywords.
 
